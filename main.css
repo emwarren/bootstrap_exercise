@@ -31,9 +31,24 @@
    margin-bottom: 1em;
  }
 
+ blockquote { border-left: 0;}
+
  #mission {
-   font-color: rgba(#bbb);
    background-color: rgba(32, 35, 41, 0.9);
+   color: #ddd;
+   padding-bottom: 40px;
  			}
+
+.jumbotron .form-group {
+   line-height: 1em;
+}
+
+.jumbotron label {
+   color: white;
+}
+
+.jumbotron img {
+   margin-top: 50px;
+}
 
   body { padding-top: 70px; }
