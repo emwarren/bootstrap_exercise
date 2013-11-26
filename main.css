@@ -51,4 +51,16 @@
    margin-top: 50px;
 }
 
+h2 {
+   margin-bottom: 1.5em;
+}
+
+.navbar-inverse {
+   background-color: rgba(32, 35, 41, 0.8);
+}
+
+.form-inline input[name='email'] {
+   width: 80%;
+}
+
   body { padding-top: 70px; }
